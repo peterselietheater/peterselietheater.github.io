@@ -2,7 +2,7 @@
 {"permalink": "/voorstellingen/", "layout": "base", "title": "Voorstellingen | Poppentheater Peterselie", "h2": "Voorstellingen", "mission": null}
 ---
 ![alleeendjes3b-Poppentheater-Peterselie.jpg](/peterselie.nl/files/alleeendjes3b-Poppentheater-Peterselie.jpg "alleeendjes3b-Poppentheater-Peterselie.jpg")
- Poppentheater Peterselie tijdens "Alle eendjes......"
+ Poppentheater Peterselie tijdens "Alle eendjes..."
  Foto: Saskia de Jong
 
 VOORSTELLINGEN
