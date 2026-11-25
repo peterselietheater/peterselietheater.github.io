@@ -1,4 +1,4 @@
-# peterselie.nl
+# Peterselie.nl
 
 Source code of the website. Jekyll builds it from the pages; GitHub
 Pages deploys it natively on every push to `main` ("Deploy from a
